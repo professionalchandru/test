@@ -1,0 +1,23 @@
+{
+    "obj": [{
+            "Name": "Chandru",
+            "IsOnline": true
+        },
+        {
+            "Name": "hari",
+            "IsOnline": false
+        },
+        {
+            "Name": "sri",
+            "IsOnline": false
+        },
+        {
+            "Name": "amma",
+            "IsOnline": true
+        },
+        {
+            "Name": "appa",
+            "IsOnline": false
+        }
+    ]
+}
